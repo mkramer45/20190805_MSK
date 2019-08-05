@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+   <thing1>
+      <id>7</id>
+      <type>MULTI</type>
+      <mainzone>Main</mainzone>
+   </thing1>
+   <thing2>4</thing2>
+   <thing3>0.100000001490116</thing3>
+   <thing4>0</thing4>
+   <thing5>1</thing5>
+   <thing6>-1</thing6>
+   <thing7>True</thing7>
+   <thing8>False</thing8>
+   <thing9>5</thing9>
+   <thing10>50</thing10>
+   <thing11>90</thing11>
+   <thing12>True</thing12>
+   <thing13>
+      <th name="N1"/>
+      <th name="N2"/>
+      <th name="N3"/>
+      <th name="N4"/>
+      <th name="N5"/>
+      <th name="N6"/>
+   </thing13>
+   <thing14>
+      <th name="C1" />
+      <th name="C1" />
+   </thing14>
+</config>
+
